@@ -3,10 +3,10 @@
 :root {
   --primaryColor: #fff;
   --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor2: #ac4f8e;
+  --navColor3: #73c0f3;
+  --navColor4: #87DBA0;
+  --navColor5: #d8d87d;
 }
 
 html {
@@ -227,7 +227,7 @@ section {
 }
 
 section#home {
-  background-image: url("https://images.unsplash.com/photo-1581453904507-626ddb717f14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80");
+  background-image: url("https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
   background-size: cover;
   background-position: center center;
 }
